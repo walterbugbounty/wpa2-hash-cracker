@@ -157,4 +157,5 @@ resume state lives and that it's per-handshake-file.
   traceback.
 - Only use files directly inside the rules folder — skip subdirectories
   entirely, don't recurse into them.
+<img width="1920" height="171" alt="image1" src="https://github.com/user-attachments/assets/26961049-55e0-41aa-b429-fb610bf88838" />
 
