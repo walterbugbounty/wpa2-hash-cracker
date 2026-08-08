@@ -1,6 +1,6 @@
-# Wifi.py — Build Spec
+# wifi.py — Build Spec
 
-A Python wrapper (`Wifi.py`) that automates a hashcat WPA/WPA2 handshake cracking
+A Python wrapper (`wifi.py`) that automates a hashcat WPA/WPA2 handshake cracking
 sequence: base wordlist attack, then rule-based attacks, checking for a cracked
 password after every attack and stopping the moment one is found.
 
