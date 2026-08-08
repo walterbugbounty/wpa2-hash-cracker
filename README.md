@@ -159,3 +159,7 @@ resume state lives and that it's per-handshake-file.
   entirely, don't recurse into them.
 <img width="1920" height="171" alt="image1" src="https://github.com/user-attachments/assets/26961049-55e0-41aa-b429-fb610bf88838" />
 
+<img width="1920" height="1039" alt="image2" src="https://github.com/user-attachments/assets/458eb07f-0810-4bf6-a973-decdad83bf9a" />
+
+<img width="1920" height="171" alt="image3" src="https://github.com/user-attachments/assets/282e28b3-dec0-42c3-a690-76778c413807" />
+
